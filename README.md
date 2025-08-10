@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
-**surya-749/surya-749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a student currently studying at Vellore Institute of Technology,Chennai.I'm currently looking forward to develop my coding skills and interested in web-development
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
